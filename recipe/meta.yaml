@@ -16,7 +16,7 @@ source:
   sha256: f0d6669f5d6f22569849fe7293e917fe25c8261261b9fc6d87e332397ad86a54
 
 build:
-  number: 0
+  number: 1
   skip: true  # [win32]
 
   rpaths:
@@ -45,7 +45,7 @@ about:
     the package capable of solving high-dimensional problems.
   license_family: GPL
 extra:
-   recipe-maintainers:
+  recipe-maintainers:
     - MathiasHaudgaard
     - FrodePedersen
     - ArneKr
@@ -53,3 +53,4 @@ extra:
     - bgruening
     - daler
     - jdblischak
+    - dpryan79
