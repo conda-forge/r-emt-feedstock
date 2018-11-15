@@ -14,9 +14,8 @@ Summary: The package provides functions to carry out a Goodness-of-fit test for 
 Current build status
 ====================
 
-[![Linux](https://img.shields.io/circleci/project/github/conda-forge/r-emt-feedstock/master.svg?label=Linux)](https://circleci.com/gh/conda-forge/r-emt-feedstock)
-[![OSX](https://img.shields.io/travis/conda-forge/r-emt-feedstock/master.svg?label=macOS)](https://travis-ci.org/conda-forge/r-emt-feedstock)
-[![Windows](https://img.shields.io/appveyor/ci/conda-forge/r-emt-feedstock/master.svg?label=Windows)](https://ci.appveyor.com/project/conda-forge/r-emt-feedstock/branch/master)
+All platforms:
+[![noarch](https://img.shields.io/circleci/project/github/conda-forge/r-emt-feedstock/master.svg?label=noarch)](https://circleci.com/gh/conda-forge/r-emt-feedstock)
 
 Current release info
 ====================
