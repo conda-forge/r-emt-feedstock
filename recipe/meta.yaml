@@ -8,7 +8,6 @@ package:
   version: {{ version|replace("-", "_") }}
 
 source:
-  fn: EMT_{{ version }}.tar.gz
   url:
     - https://cran.r-project.org/src/contrib/EMT_{{ version }}.tar.gz
     - https://cran.r-project.org/src/contrib/Archive/EMT/EMT_{{ version }}.tar.gz
