@@ -1,11 +1,11 @@
-About r-emt
-===========
+About r-emt-feedstock
+=====================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-emt-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=EMT
 
 Package license: GPL-2.0-or-later
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-emt-feedstock/blob/main/LICENSE.txt)
 
 Summary: The package provides functions to carry out a Goodness-of-fit test for discrete multivariate data. It is tested if a given observation is likely to have occurred under the assumption of an ab-initio model. A p-value can be calculated using different distance measures between observed and expected frequencies. A Monte Carlo method is provided to make the package capable of solving high-dimensional problems.
 
