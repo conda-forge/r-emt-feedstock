@@ -1,4 +1,4 @@
-{% set version = "1.3" %}
+{% set version = "1.3.1" %}
 {% set posix = 'm2-' if win else '' %}
 {% set native = 'm2w64-' if win else '' %}
 
@@ -10,11 +10,11 @@ source:
   url:
     - {{ cran_mirror }}/src/contrib/EMT_{{ version }}.tar.gz
     - {{ cran_mirror }}/src/contrib/Archive/EMT/EMT_{{ version }}.tar.gz
-  sha256: 05e70b63262dbd43611e5d77199d0cd08ac4292596c573834b0f2304ef54ac7e
+  sha256: d971c1a516269b924a8516d409b04dc34d37df43f62ea6128a3c71be584a9a3c
 
 build:
   merge_build_host: true  # [win]
-  number: 1
+  number: 0
   noarch: generic
   rpaths:
     - lib/R/lib/
